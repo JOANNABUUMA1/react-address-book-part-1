@@ -9,15 +9,15 @@ This exercise is entirely focused on planning the development of an application.
 Using the list of requirements in the section below, create plans or diagrams that include:
 
 - A state model **(Required)**
-    - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram, a badly drawn illustration on the back of a napkin, etc.
+  - This could be a plain text description of an object with specific properties, a sample JSON object, a class diagram, a badly drawn illustration on the back of a napkin, etc.
 - A component tree **(Required)**
-    - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
+  - This should be a simple diagram that details which React components you are going to create and where they exist in the hierarchy. Include any state that each component will be responsible for in this diagram.
 - A project management board **(Optional)**
-    - This could be a kanban board that lists some tasks you'll need to complete. You can use an app like Trello or GitHub Projects, or you could use sticky notes.
+  - This could be a kanban board that lists some tasks you'll need to complete. You can use an app like Trello or GitHub Projects, or you could use sticky notes.
 - A style guide **(Optional)**
-    - A simple document that lists common CSS values to be used, such as text colours & fonts, button colours etc.
+  - A simple document that lists common CSS values to be used, such as text colours & fonts, button colours etc.
 - A prototype app **(Optional)**
-    - A very simple app that demonstrates the desired functionality. This could be entirely done in the `App` component with hard-coded state values and no styling
+  - A very simple app that demonstrates the desired functionality. This could be entirely done in the `App` component with hard-coded state values and no styling
 
 **Add your plans as screenshots / files to the root of this project, named appropriately so they can be easily identified. E.g. a screenshot of your component tree named `component-tree.jpg`**
 
@@ -40,4 +40,5 @@ Using the list of requirements in the section below, create plans or diagrams th
 - Your app does not need to look exactly like the example below as long as it satisfies the requirements
 
 ## Example application
+
 ![](./_assets/address-book.gif)
